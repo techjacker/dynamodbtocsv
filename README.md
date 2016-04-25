@@ -53,3 +53,8 @@ pyenv local dynamodbtocsv
 pip install -r requirements.txt
 pip install -r requirements-dev.txt
 ```
+
+### Tests
+```Shell
+nostests
+```
