@@ -1,10 +1,11 @@
+[![Build Status](https://travis-ci.org/techjacker/dynamodbtocsv.svg?branch=master)](https://travis-ci.org/techjacker/dynamodbtocsv)
+
 # dynamodbtocsv
 
 - Downloads a AWS DynamoDB table and exports to CSV
 - Optionally pass a JSON config that specifies column order in CSV
 - JSON config also allows column headings to be renamed in CSV
 - requires python 3
-
 
 
 ## Usage
